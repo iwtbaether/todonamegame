@@ -1,8 +1,7 @@
 {
   "files": {
     "main.css": "/todonamegame/static/css/main.9f72dada.chunk.css",
-    "main.js": "/todonamegame/static/js/main.300114db.chunk.js",
-    "main.js.map": "/todonamegame/static/js/main.300114db.chunk.js.map",
+    "main.js": "/todonamegame/static/js/main.9dbf770e.chunk.js",
     "runtime-main.js": "/todonamegame/static/js/runtime-main.c8bca29f.js",
     "static/js/2.22d4d23a.chunk.js": "/todonamegame/static/js/2.22d4d23a.chunk.js",
     "static/js/3.d5e43d93.chunk.js": "/todonamegame/static/js/3.d5e43d93.chunk.js",
@@ -13,6 +12,6 @@
     "static/js/runtime-main.c8bca29f.js",
     "static/js/2.22d4d23a.chunk.js",
     "static/css/main.9f72dada.chunk.css",
-    "static/js/main.300114db.chunk.js"
+    "static/js/main.9dbf770e.chunk.js"
   ]
 }
