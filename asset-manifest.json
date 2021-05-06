@@ -1,22 +1,17 @@
 {
   "files": {
     "main.css": "/todonamegame/static/css/main.3c082ef4.chunk.css",
-    "main.js": "/todonamegame/static/js/main.0063464e.chunk.js",
-    "main.js.map": "/todonamegame/static/js/main.0063464e.chunk.js.map",
+    "main.js": "/todonamegame/static/js/main.6730d020.chunk.js",
     "runtime-main.js": "/todonamegame/static/js/runtime-main.7ae9b365.js",
-    "runtime-main.js.map": "/todonamegame/static/js/runtime-main.7ae9b365.js.map",
     "static/js/2.58d2588d.chunk.js": "/todonamegame/static/js/2.58d2588d.chunk.js",
-    "static/js/2.58d2588d.chunk.js.map": "/todonamegame/static/js/2.58d2588d.chunk.js.map",
     "static/js/3.5c0f485a.chunk.js": "/todonamegame/static/js/3.5c0f485a.chunk.js",
-    "static/js/3.5c0f485a.chunk.js.map": "/todonamegame/static/js/3.5c0f485a.chunk.js.map",
     "index.html": "/todonamegame/index.html",
-    "static/css/main.3c082ef4.chunk.css.map": "/todonamegame/static/css/main.3c082ef4.chunk.css.map",
     "static/js/2.58d2588d.chunk.js.LICENSE.txt": "/todonamegame/static/js/2.58d2588d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7ae9b365.js",
     "static/js/2.58d2588d.chunk.js",
     "static/css/main.3c082ef4.chunk.css",
-    "static/js/main.0063464e.chunk.js"
+    "static/js/main.6730d020.chunk.js"
   ]
 }
